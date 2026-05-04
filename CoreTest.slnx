@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="CoreTest.API/CoreTest.API.csproj" />
+  <Project Path="CoreTest.BLL/CoreTest.BLL.csproj" />
+  <Project Path="CoreTest.DAL/CoreTest.DAL.csproj" />
+  <Project Path="CoreTest.Domain/CoreTest.Domain.csproj" />
+  <Project Path="CoreTest.Shared/CoreTest.Shared.csproj" />
+</Solution>
