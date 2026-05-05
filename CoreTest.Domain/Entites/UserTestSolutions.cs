@@ -7,7 +7,7 @@ public class UserTestSolution
 {
     [Column("UserId")]
     public int UserId { get; set; }
-
+     
     [Column("TestSolutionId")]
     public int TestSolutionId { get; set; }
 }

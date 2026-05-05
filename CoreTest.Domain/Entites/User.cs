@@ -7,7 +7,7 @@ public class User
     [Column("id")]
     public int Id { get; set; }
 
-    [Column("full_name")]
+    [Column("full_name")] 
     public string FullName { get; set; }
 
     [Column("password")]
