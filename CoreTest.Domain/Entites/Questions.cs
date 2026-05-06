@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.Collections;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace CoreTest.Domain.Entites;
 
@@ -14,5 +15,5 @@ public class Questions
     [Column("Test_Id")]
     public long TestId { get; set; }
     [Column("Options")]
-    public string Options { get; set; }
+    public ICollection<Option> Options { get; set; }
 }
