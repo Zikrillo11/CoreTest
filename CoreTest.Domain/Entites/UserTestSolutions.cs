@@ -5,6 +5,8 @@ namespace CoreTest.Domain.Entites;
 [Table("UserTestSolutions")]
 public class UserTestSolution
 {
+    [Column("Id")]
+    public int Id { get; set; }
     [Column("UserId")]
     public int UserId { get; set; }
      
