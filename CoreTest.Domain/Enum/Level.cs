@@ -1,8 +1,7 @@
-﻿namespace CoreTest.Domain.Enum;
-
-public class Level
+﻿
+public enum Level
 {
-    public const string Easy = "Easy";
-    public const string Medium = "Medium";
-    public const string Hard = "Hard";
+    Easy,
+    Medium,
+    Hard
 }
