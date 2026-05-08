@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace CoreTest.Domain.Entites;
+namespace CoreTest.Domain.Entites.BaseEntity;
 
 public class BaseEntity
 {
