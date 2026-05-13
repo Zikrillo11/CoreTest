@@ -1,6 +1,8 @@
 <Solution>
   <Project Path="CoreTest.API/CoreTest.API.csproj" />
   <Project Path="CoreTest.BLL/CoreTest.BLL.csproj" />
+  <Project Path="CoreTest.Common/CoreTest.Common.csproj" Id="bd31aa3e-80f6-426b-909d-64630c1e6820" />
+  <Project Path="CoreTest.Contracts/CoreTest.Contracts.csproj" Id="8aed979e-b9ba-4a71-8982-18a8d7a4ed4d" />
   <Project Path="CoreTest.DAL/CoreTest.DAL.csproj" />
   <Project Path="CoreTest.Domain/CoreTest.Domain.csproj" />
   <Project Path="CoreTest.Shared/CoreTest.Shared.csproj" />
