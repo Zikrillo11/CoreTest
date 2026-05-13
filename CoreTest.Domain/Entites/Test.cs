@@ -12,7 +12,7 @@ public class Test
     public string Title { get; set; }
 
     [Column("description")]
-    public string Descriiption { get; set; }
+    public string Description { get; set; }
 
     [Column("questions")]
     public string Questions { get; set; }
