@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <Folder Include="Criteria\" />
+    <Folder Include="Interface\" />
   </ItemGroup>
 
 </Project>
