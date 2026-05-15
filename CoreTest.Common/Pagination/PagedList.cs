@@ -1,4 +1,4 @@
-﻿namespace BestService.Common.Pagination;
+﻿namespace CoreTest.Common.Pagination;
 
 public class PagedList<T>
 {

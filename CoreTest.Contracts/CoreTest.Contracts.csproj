@@ -7,7 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Interface\" />
+    <PackageReference Include="Microsoft.Diagnostics.Tracing.TraceEvent" Version="3.2.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CoreTest.Common\CoreTest.Common.csproj" />
+    <ProjectReference Include="..\CoreTest.Shared\CoreTest.Shared.csproj" />
   </ItemGroup>
 
 </Project>
