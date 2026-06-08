@@ -1,6 +1,6 @@
 ﻿namespace CoreTest.Contracts.Criteria.User;
 
-public class UserCriteria : BaseCriteria
+public class OptionrCriteria : BaseCriteria
 {
     public int Id { get; set; }
     public string Username { get; set; }
