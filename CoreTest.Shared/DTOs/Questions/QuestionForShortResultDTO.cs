@@ -1,6 +1,6 @@
 ﻿namespace CoreTest.Shared.DTOs.Questions;
 
-public class QuestionForShortResult : BaseDto
+public class QuestionForShortResultDTO : BaseDto
 {
     public long Id { get; set; }
     public long TestId { get; set; }
