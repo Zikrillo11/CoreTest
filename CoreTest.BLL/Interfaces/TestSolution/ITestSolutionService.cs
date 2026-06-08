@@ -1,4 +1,5 @@
 ﻿using CoreTest.Common.Pagination;
+using CoreTest.Contracts.Criteria.TestSolution;
 using CoreTest.Shared.DTOs.TestSolution;
 
 namespace CoreTest.Contracts.Interface.User;

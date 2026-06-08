@@ -1,4 +1,5 @@
 ﻿using CoreTest.Common.Pagination;
+using CoreTest.Contracts.Criteria.Topic;
 using CoreTest.Contracts.Criteria.User;
 using CoreTest.Shared.DTOs.Topic;
 using CoreTest.Shared.DTOs.User;
